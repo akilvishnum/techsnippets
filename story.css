@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime:700&display=swap');
+
+:root {
+    --bggradient: linear-gradient(to right, #008040, #00bf60);
+}
+
+.nav-item {
+    padding-right: 0.8em;
+}
+
+.header {
+    background-color: #FF331F;
+    width: 100%;
+
+}
+
+#akil {
+    padding-top: 2em;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    padding-bottom: 3em;
+}
+
+.whole {
+    font-size: 30px;
+    background: rgb(0, 0, 1);
+    color: white;
+    font-family: 'Courier Prime', monospace;
+    font-weight: lighter;
+    margin-top: 3em;
+    margin-left: 7em;
+    margin-right: 7em;
+    padding-top: 2em;
+}
+
+
+.navbar {
+    background: transparent;
+}
+
+.whole {
+    padding: 13vmin 5vmin 20vmin 10vmin;
+    border: 2px solid black;
+    box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+
+
+}
+
+body {
+    background: #EDAE49;
+}
+
+.header {
+    font-family: 'Montserrat', sans-serif;
+    ;
+}
+
+.ima .row .col-md-6 img {
+
+    width: 500px;
+    height: 500px;
+    padding-top: 2em;
+    margin-left: 2em;
+    align-content: center;
+    padding-bottom: 3em;
+}
+
+.hola .row .col-md-3 {
+
+    padding-right: 3em;
+    padding-left: 2em;
+    padding-top: 5em;
+    bottom: 0;
+
+
+}
+
+.hola .row .col-md-9 {
+    padding-left: 3em;
+
+    padding-top: 5em;
+    bottom: 0;
+}
+
+.hola .row .col-md-3 h6 {
+
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    color: black;
+
+}
+
+.hola .row .col-md-9 h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 100px;
+    font-weight: bolder;
+}
+
+.hola {
+    background-color: #FF331F;
+
+}
+
+
+/*
+
+.hola .row {
+
+
+    background-color: orange;
+    width: 100%;
+
+
+    margin-top: 100px;
+
+
+
+}
+
+
+.hola .row .col-xl-2 h6 {
+    font-size: 2px;
+}
+
+.hola .row .col-md-4 h6 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+
+
+    vertical-align: center;
+
+
+
+
+
+
+
+
+}
+
+.hola .row .col-md-4 {
+    padding: 15vim 15vim;
+    left: 2.5em;
+    bottom: 0em;
+    margin: 0px auto;
+
+}
+
+
+
+.amigo .row .col-md-4 h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+
+    position: absolute;
+    bottom: 0;
+
+
+
+
+
+
+}*/
