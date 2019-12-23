@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:900&display=swap');
 
 @import url('https://fonts.googleapis.com/css?family=Courier+Prime:700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arvo:700&display=swap');
 
 :root {
     --bggradient: linear-gradient(to right, #008040, #00bf60);
@@ -11,29 +12,59 @@
     padding-right: 0.8em;
 }
 
-.header {
-    background-color: #FF331F;
-    width: 100%;
+.whole h1 {
+    color: #EDAE49;
 
 }
 
+.re {
+    Color: #EDAE49;
+    font-weight: bolder;
+    font-family: 'Arvo', serif;
+    padding-top: 3em;
+
+    margin-left: 7em;
+}
+
 #akil {
-    padding-top: 2em;
-    font-family: 'Montserrat', sans-serif;
-    position: relative;
-    padding-bottom: 3em;
+    width: 700px;
+    height: 500px;
+    margin-top: 3em;
+    margin-left: 3em;
+    padding-right: 1em;
+
+}
+
+#short h1 {
+    color: #EDAE49;
+}
+
+
+#short {
+    margin-top: 3em;
+
+    padding-right: 2%;
+    color: white;
+}
+
+#short p {
+    font-size: 25px;
+    margin-right: 2%;
 }
 
 .whole {
     font-size: 30px;
-    background: rgb(0, 0, 1);
-    color: white;
-    font-family: 'Courier Prime', monospace;
-    font-weight: lighter;
+    background: white;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5em;
+    font-weight: bold;
     margin-top: 3em;
     margin-left: 7em;
     margin-right: 7em;
+
     padding-top: 2em;
+
 }
 
 
@@ -43,19 +74,67 @@
 
 .whole {
     padding: 13vmin 5vmin 20vmin 10vmin;
-    border: 2px solid black;
+    border: 2px black;
     box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
 
 
+
+}
+
+.whole p {
+    letter-spacing: 0.1em;
 }
 
 body {
-    background: #EDAE49;
+    background: black;
 }
 
 .header {
-    font-family: 'Montserrat', sans-serif;
-    ;
+    font-family: 'Arvo', serif;
+
+}
+
+.re {
+    margin-left: 8em;
+}
+
+.sec {
+
+    padding-top: 2em;
+    margin-left: 8em;
+    margin-right: 7em;
+    font-family: 'Arvo', serif;
+
+}
+
+.sec .card:hover {
+    background-color: #EDAE49;
+    color: black;
+
+}
+
+.sec .card h5 {
+    color: #FF331F;
+}
+
+.card-img-top {
+    width: 220px;
+    height: 220px;
+    margin-left: 1em;
+}
+
+.sec .card {
+    width: 20em;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    height: 70vim;
+
+    display: inline-block;
+    border-radius: 3em;
+    padding: 2vmin 4.5vmin;
+    margin: 1em;
 }
 
 .ima .row .col-md-6 img {
@@ -101,10 +180,52 @@ body {
 }
 
 .hola {
-    background-color: #FF331F;
+    background-color: black;
 
 }
 
+.header {
+    background: black;
+    color: white;
+    height: 100vh;
+}
+
+#dat {
+    color: #EDAE49;
+}
+
+footer .textmo {
+    color: black;
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.815);
+    overflow-x: hidden;
+    margin-left: 20vim;
+    padding: 14vmin 18vmin;
+    font-family: 'Arvo', serif;
+}
+
+footer .foo {
+    color: black;
+}
+
+#aaa {
+    margin-left: 150px;
+}
+
+footer {
+    background-color: #EDAE49;
+    color: black;
+}
+
+footer p>span {
+    color: #ff512f;
+}
+
+footer h4 {
+    color: black;
+}
 
 /*
 
