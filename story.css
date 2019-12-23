@@ -8,22 +8,63 @@
     --bggradient: linear-gradient(to right, #008040, #00bf60);
 }
 
+.dat {
+    color: #EDAE49;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+
+}
+
+#combut {
+    font-family: -apple-system-body, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+
+}
+
+#exampleFormControlInput1 {
+    background-color: grey;
+    color: black;
+
+}
+
+#exampleFormControlTextarea1 {
+    background-color: grey;
+    color: black;
+}
+
+.comment textarea {
+
+    color: black;
+    font-family: -apple-system-body, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+}
+
+.comment input::placeholder {
+    color: black;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+}
+
 .nav-item {
     padding-right: 0.8em;
 }
 
 .whole h1 {
     color: #EDAE49;
+    font-family: -apple-system-caption, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
 
 }
 
-.re {
+#re h1 {
     Color: #EDAE49;
-    font-weight: bolder;
-    font-family: 'Arvo', serif;
-    padding-top: 3em;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
 
-    margin-left: 7em;
+
+    padding-top: 2em;
+
+
 }
 
 #akil {
@@ -37,6 +78,8 @@
 
 #short h1 {
     color: #EDAE49;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
 }
 
 
@@ -50,15 +93,24 @@
 #short p {
     font-size: 25px;
     margin-right: 2%;
+    font-family: -apple-system-body, BlinkMacSystemFont, sans-serif;
+    font-weight: 600;
+}
+
+body {
+    font-family: -apple-system-tall-body, BlinkMacSystemFont, sans-serif;
+    font-weight: 300;
+
 }
 
 .whole {
     font-size: 30px;
     background: white;
     color: black;
-    font-family: 'Montserrat', sans-serif;
-    line-height: 1.5em;
-    font-weight: bold;
+    font-family: -apple-system-tall-body, BlinkMacSystemFont, sans-serif;
+
+    font-weight: 300;
+
     margin-top: 3em;
     margin-left: 7em;
     margin-right: 7em;
@@ -82,9 +134,7 @@
 
 }
 
-.whole p {
-    letter-spacing: 0.1em;
-}
+
 
 body {
     background: black;
@@ -104,7 +154,8 @@ body {
     padding-top: 2em;
     margin-left: 8em;
     margin-right: 7em;
-    font-family: 'Arvo', serif;
+    font-family: -apple-system-caption, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
 
 }
 
@@ -116,6 +167,9 @@ body {
 
 .sec .card h5 {
     color: #FF331F;
+    font-family: -apple-system-caption, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+
 }
 
 .card-img-top {
@@ -190,12 +244,52 @@ body {
     height: 100vh;
 }
 
-#dat {
+.dat {
+    color: #EDAE49;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+
+}
+
+
+
+
+/* Define the "system" font family */
+
+/* Now, let's apply it on an element */
+
+
+footer .textmo p {
+    color: black;
+    font-family: -apple-system-body, BlinkMacSystemFont, sans-serif;
+    font-weight: lighter;
+
+}
+
+.comment h1 {
+    text-align: left;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+    color: #EDAE49;
+    ;
+}
+
+.comment label {
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
     color: #EDAE49;
 }
 
-footer .textmo {
-    color: black;
+hr.comm {
+    border-top: 1px solid #EDAE49;
+}
+
+.comment {
+    margin: 3em;
+    margin-left: 24em;
+    margin-right: 24em;
+    padding: 2em;
+    border: 1px solid white;
 }
 
 footer {
@@ -203,11 +297,15 @@ footer {
     overflow-x: hidden;
     margin-left: 20vim;
     padding: 14vmin 18vmin;
-    font-family: 'Arvo', serif;
+    font-family: -apple-system-headline, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
 }
 
-footer .foo {
+footer .fo {
     color: black;
+    font-family: -apple-system-caption, BlinkMacSystemFont, sans-serif;
+    font-weight: 900;
+
 }
 
 #aaa {
