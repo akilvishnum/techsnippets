@@ -212,6 +212,10 @@ footer h4 {
 
 }
 
+@media screen and (min-width: 768px) and (max-width: 1300px) {
+    .blog .col-md-10 .row .col-md-5 {}
+
+}
 
 
 .blog h1 {
@@ -235,12 +239,16 @@ footer h4 {
     font-family: -apple-system-caption1, BlinkMacSystemFont, sans-serif;
     font-weight: 900;
     color: black;
+    width: fit-content;
+
 }
 
 .col-md-10 .row .col-md-4 {
     color: black;
     font-family: -apple-system-caption1, BlinkMacSystemFont, sans-serif;
     font-weight: 900;
+    overflow-wrap: break-word;
+
 }
 
 .flimg {
