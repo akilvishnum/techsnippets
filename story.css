@@ -396,11 +396,20 @@ footer h4 {
         /* left: 2%; */
         margin-left: 12.5%;
         /* padding-bottom: 600px; */
-        margin-top: 600px;
+        margin-top: 650px;
     }
 
     #re h1 {
         margin-left: -90px;
+    }
+
+    body {
+
+        margin: 0 auto;
+        /* left: -5%; */
+        margin-left: -4%;
+        margin-right: 4%;
+
     }
 
     .sec .row .col-md-4 {
@@ -419,12 +428,12 @@ footer h4 {
 
     #short {
         margin-left: 12.5%;
-        padding-bottom: 20px;
+        padding-bottom: 50px;
     }
 
     #akil {
 
-        margin-left: 12.5%;
+        margin-left: 21%;
         width: 75%;
 
     }
