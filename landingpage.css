@@ -207,10 +207,18 @@ footer h4 {
 
 @media only screen and (min-width: 300px) and (max-width: 500px) {
     #akil {
-        width: 350px;
-        margin: 0px 25%;
+        margin-left: 21%;
+        width: 75%;
 
 
+    }
+
+    .header h1 {
+        font-size: 25px;
+    }
+
+    body {
+        width:
     }
 
 
@@ -225,6 +233,17 @@ footer h4 {
         font-weight: 900;
         overflow-wrap: break-word;
 
+
+    }
+
+    #space {
+        width: 75%;
+    }
+
+    .col-md-10 {
+        width: 75%;
+
+        left: -7%;
     }
 
 
