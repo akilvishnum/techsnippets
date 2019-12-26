@@ -33,6 +33,11 @@ body {
     background: var(--bggradient);
 }
 
+@media only screen and (min-width:300px) and (max-width:500px) {
+    #hari {
+        margin-top: 600px;
+    }
+}
 
 .panel i {
     font-size: 50px;
