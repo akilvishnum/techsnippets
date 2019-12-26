@@ -238,10 +238,16 @@ body {
 
 }
 
+@media screen and (min-width:768px) and (max-width:1300px) {
+    #short {
+        padding-left: 200px;
+    }
+}
+
 .header {
     background: black;
     color: white;
-    height: 100vh;
+
 }
 
 .dat {
@@ -438,6 +444,11 @@ footer h4 {
 
 
 }*/
+.replyform input {
+    width: 100%;
+
+}
+
 @media only screen and (min-width: 300px) and (max-width: 500px) {
     .whole {
 
@@ -448,7 +459,7 @@ footer h4 {
         /* left: 2%; */
         margin-left: 12.5%;
 
-        margin-top: 700px;
+
     }
 
     #re h1 {
@@ -491,12 +502,13 @@ footer h4 {
     #short {
         margin-left: 12.5%;
         padding-bottom: 50px;
+        /* margin-bottom: 300px;*/
     }
 
     #akil {
 
         margin-left: 21%;
         width: 75%;
-        margin-top: 90px;
+
     }
 }
