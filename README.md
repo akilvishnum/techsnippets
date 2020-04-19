@@ -1,5 +1,5 @@
 # Tech Snippets - A tech blogging site
-### Developed a responsive site using HTML and CSS!
+Developed a responsive site using HTML and CSS!
 
 ## [The Site is Live here!](http://tech-snippets.azurewebsites.net/) :100::hearts:
 
@@ -43,5 +43,5 @@ Screen Shots of the site.
 > Comment Section ( People can comment and reply to others :fire::outbox_tray:)
 
 # Contributors :man_technologist:
-![KS Hari Narayanan](https://github.com/ksharinarayanan)
+[KS Hari Narayanan](https://github.com/ksharinarayanan)
 
