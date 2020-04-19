@@ -5,9 +5,9 @@ Developed a responsive site using HTML and CSS!
 
 
 Screen Shots of the site.
-# #1 - Landing Page
+# #1 - Landing Page :black_heart::100:
 ![Screenshot from 2020-04-19 21-01-36](https://user-images.githubusercontent.com/56084840/79692107-f9682c00-8280-11ea-88b5-154b1c5eeb1a.png)
-# #2
+# #2 - Feature Page :tada::computer:
 ![Screenshot from 2020-04-19 21-01-47](https://user-images.githubusercontent.com/56084840/79692124-13097380-8281-11ea-9c32-4df94b649b04.png)
 # #3
 ![Screenshot from 2020-04-19 21-01-57](https://user-images.githubusercontent.com/56084840/79692125-169cfa80-8281-11ea-8152-15272475eb94.png)
