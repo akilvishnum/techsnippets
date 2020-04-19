@@ -13,10 +13,14 @@ Screen Shots of the site.
 ## #2 - Feature Page :tada::moneybag:
 ![Screenshot from 2020-04-19 21-01-47](https://user-images.githubusercontent.com/56084840/79692124-13097380-8281-11ea-9c32-4df94b649b04.png)
 
-> Feature Page ( Bloggers can pay to feature their article up on the landing page to get better reach :100::star2:
+> Feature Page ( Bloggers can pay to feature their article up on the landing page to get better reach :100::star2:)
 
 ## #3 - Trending Stories :sparkles:
 ![Screenshot from 2020-04-19 21-01-57](https://user-images.githubusercontent.com/56084840/79692125-169cfa80-8281-11ea-8152-15272475eb94.png)
+
+> Trending Stories ( Blogs with better interactions(views & comments) is shown up :zap::blog:
+
+
 ## #4 - Daily Blogs :newspaper_roll::stars:
 ![Screenshot from 2020-04-19 21-02-05](https://user-images.githubusercontent.com/56084840/79692126-1a308180-8281-11ea-8b3e-e58018cd6d49.png)
 ## #5 - Story Template Page :computer::fireworks:
