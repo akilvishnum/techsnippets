@@ -18,13 +18,21 @@ Screen Shots of the site.
 ## #3 - Trending Stories :sparkles:
 ![Screenshot from 2020-04-19 21-01-57](https://user-images.githubusercontent.com/56084840/79692125-169cfa80-8281-11ea-8152-15272475eb94.png)
 
-> Trending Stories ( Blogs with better interactions(views & comments) is shown up :zap::blog:
+> Trending Stories ( Blogs with better interactions(views & comments) is shown up :zap::drum:)
 
 
 ## #4 - Daily Blogs :newspaper_roll::stars:
 ![Screenshot from 2020-04-19 21-02-05](https://user-images.githubusercontent.com/56084840/79692126-1a308180-8281-11ea-8b3e-e58018cd6d49.png)
+
+> Daily Blogs ( List of every blogs published :newspaper:)
+
 ## #5 - Story Template Page :computer::fireworks:
 ![Screenshot from 2020-04-19 21-03-47](https://user-images.githubusercontent.com/56084840/79692127-1d2b7200-8281-11ea-9e16-5b527409079f.png)
+
+> Story Page ( Simple image template with a gist to the right and a full story following. :bookmark_tabs::camera:)
+
 ## #6 - Comment Section :fire::coffee:
 ![Screenshot from 2020-04-19 21-03-54](https://user-images.githubusercontent.com/56084840/79692129-20266280-8281-11ea-9344-0cd08eb0c5ec.png)
+
+> Comment Section ( People can comment and reply to others :fire::discuss:)
 
