@@ -1,7 +1,13 @@
 # Tech Snippets - A tech blogging site
 ### Developed a responsive site using HTML and CSS!
 
-## [The Site is Live here!](http://tech-snippets.azurewebsites.net/) :100:
+## [The Site is Live here!](http://tech-snippets.azurewebsites.net/) :100::hearts:
+
+# Technologies Used :bulb:
+1. **Frontend -** HTML & CSS
+2. **Backend -** Django Framework
+3. **UI layout -** Figma
+4. **Hosting Services -** Azure Websites
 
 
 Screen Shots of the site.
@@ -34,5 +40,8 @@ Screen Shots of the site.
 ## #6 - Comment Section :fire::coffee:
 ![Screenshot from 2020-04-19 21-03-54](https://user-images.githubusercontent.com/56084840/79692129-20266280-8281-11ea-9344-0cd08eb0c5ec.png)
 
-> Comment Section ( People can comment and reply to others :fire::discuss:)
+> Comment Section ( People can comment and reply to others :fire::outbox_tray:)
+
+# Contributors :man_technologist:
+![KS Hari Narayanan](https://github.com/ksharinarayanan)
 
