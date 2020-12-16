@@ -1,7 +1,7 @@
 # Tech Snippets - A tech blogging site
 Developed a responsive site using HTML and CSS!
 
-## [The Site is Live here!](http://tech-snippets.azurewebsites.net/) :100::hearts:
+
 
 # Technologies Used :bulb:
 1. **Frontend -** HTML & CSS
